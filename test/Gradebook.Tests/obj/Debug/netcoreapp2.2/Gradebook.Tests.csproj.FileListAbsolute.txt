@@ -1,0 +1,14 @@
+/Users/shaunlobsinger/Developer/C#/gradebook/test/Gradebook.Tests/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/shaunlobsinger/Developer/C#/gradebook/test/Gradebook.Tests/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/Users/shaunlobsinger/Developer/C#/gradebook/test/Gradebook.Tests/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+/Users/shaunlobsinger/Developer/C#/gradebook/test/Gradebook.Tests/bin/Debug/netcoreapp2.2/Gradebook.Tests.deps.json
+/Users/shaunlobsinger/Developer/C#/gradebook/test/Gradebook.Tests/bin/Debug/netcoreapp2.2/Gradebook.Tests.runtimeconfig.json
+/Users/shaunlobsinger/Developer/C#/gradebook/test/Gradebook.Tests/bin/Debug/netcoreapp2.2/Gradebook.Tests.runtimeconfig.dev.json
+/Users/shaunlobsinger/Developer/C#/gradebook/test/Gradebook.Tests/bin/Debug/netcoreapp2.2/Gradebook.Tests.dll
+/Users/shaunlobsinger/Developer/C#/gradebook/test/Gradebook.Tests/bin/Debug/netcoreapp2.2/Gradebook.Tests.pdb
+/Users/shaunlobsinger/Developer/C#/gradebook/test/Gradebook.Tests/obj/Debug/netcoreapp2.2/Gradebook.Tests.csprojAssemblyReference.cache
+/Users/shaunlobsinger/Developer/C#/gradebook/test/Gradebook.Tests/obj/Debug/netcoreapp2.2/Gradebook.Tests.csproj.CoreCompileInputs.cache
+/Users/shaunlobsinger/Developer/C#/gradebook/test/Gradebook.Tests/obj/Debug/netcoreapp2.2/Gradebook.Tests.AssemblyInfoInputs.cache
+/Users/shaunlobsinger/Developer/C#/gradebook/test/Gradebook.Tests/obj/Debug/netcoreapp2.2/Gradebook.Tests.AssemblyInfo.cs
+/Users/shaunlobsinger/Developer/C#/gradebook/test/Gradebook.Tests/obj/Debug/netcoreapp2.2/Gradebook.Tests.dll
+/Users/shaunlobsinger/Developer/C#/gradebook/test/Gradebook.Tests/obj/Debug/netcoreapp2.2/Gradebook.Tests.pdb
